@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Kermoss\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(178,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kermoss\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(185,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\Kermoss\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
