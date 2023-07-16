@@ -1,0 +1,2 @@
+readDelay=0
+writeDelay=0
